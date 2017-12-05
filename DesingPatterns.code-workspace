@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "SRP/SRP-C#-BadEx"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "SRP/SRP-C#-GoodEx"
+		},
+		{
+			"path": "OCP/OCP-CS-Ex1"
+		}
+	],
+	"settings": {}
+}
