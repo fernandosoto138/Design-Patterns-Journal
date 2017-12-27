@@ -6,3 +6,37 @@ The idea for this project is make and introduction for a better software develop
 This "guide" (if it can be called that way) it is thought to people who knows how to program in at least one language, so I will not talk about simple things like arrays or functions. 
 
 So, Let's Start!. 
+
+## Index
+- [ ] 1.0 SOLID Introduction
+    - [x] 1.1 Single Responsability Principle 
+    - [x] 1.1 Open-Closed Principle
+    - [ ] 1.2 Liksov Substitution Principle
+    - [ ] 1.3 Interface Segregation Principle
+    - [ ] 1.4 Dependecy Inversion Principle
+- [ ] 2.0 Creational Patterns 
+    - [ ] 2.1 Abstract Factory
+    - [ ] 2.2 Factory Method
+        - [ ] 2.2.1 A.F. - F.M Comparisson ? 
+    - [ ] 2.3 Prototype 
+    - [ ] 2.4 Singleton 
+- [ ] 3.0 Structural Patterns 
+    - [ ] 3.1 Adapter 
+    - [ ] 3.2 Bridge 
+    - [ ] 3.3 Composite 
+    - [ ] 3.4 Decorator 
+    - [ ] 3.5 Facade 
+    - [ ] 3.6 Flyweight 
+    - [ ] 3.7 Proxy
+- [ ] 4.0 Behavioral Patterns 
+    - [ ] 4.1 Chain of responsibility 
+    - [ ] 4.2 Command 
+    - [ ] 4.3 Interpreter   
+    - [ ] 4.4 Iterator 
+    - [ ] 4.5 Mediator 
+    - [ ] 4.6 Memento 
+    - [ ] 4.7 Observer 
+    - [ ] 4.8 State 
+    - [ ] 4.9 Strategy 
+    - [ ] 4.10 Template method 
+    - [ ] 4.11 Visitor
