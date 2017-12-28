@@ -1,16 +1,19 @@
 {
 	"folders": [
 		{
-			"path": "SRP/SRP-C#-BadEx"
+			"path": "1.1 SOLID SRP/SRP-C#-BadEx"
 		},
 		{
 			"path": "."
 		},
 		{
-			"path": "SRP/SRP-C#-GoodEx"
+			"path": "1.1 SOLID SRP/SRP-C#-GoodEx"
 		},
 		{
-			"path": "OCP/OCP-CS-Ex1"
+			"path": "1.2 SOLID OCP/OCP-CS-Ex1"
+		},
+		{
+			"path": "1.3 Liksov Substitution Principle/LSP-CS-1"
 		}
 	],
 	"settings": {}
