@@ -48,6 +48,7 @@ So, Let's Start!.
 - ⚠️ : Warning : 
     1. Needs Real-World Example. 
     2. Incomplete
+    3. Chek if it's necessary 
 - ✅ : Done. 
 
 | Item  | Description                     | Coded | Explanation | Checked Translation |
@@ -56,7 +57,7 @@ So, Let's Start!.
 | 1.1   | Single Responsability Principle | ✅     | ✅           | ❌                   |
 | 1.2   | Open-Closed Principle           | ✅     | ✅           | ❌                   |
 | 1.3   | Liksov Substitution Principle   | ⚠️ 1*     | ✅          | ❌                   |
-| 1.4   | Interface Segregation Principle | ❌     | ❌           | ❌                   |
+| 1.4   | Interface Segregation Principle | ⚠️ 3*     | ✅           | ❌                   |
 | 1.5   | Dependecy Inversion Principle   | ❌     | ❌           | ❌                   |
 | 2.0   | Creational Patterns             | null     | ❌           | ❌                   |
 | 2.1   | Abstract Factory                | ❌     | ❌           | ❌                   |
