@@ -60,6 +60,3 @@ class PriceCalculator
 }
 ```
 Now, the list can contain any object what have implemented IProduct interface. 
-
-
-http://joelabrahamsson.com/a-simple-example-of-the-openclosed-principle/
