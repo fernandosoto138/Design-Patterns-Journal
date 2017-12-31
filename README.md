@@ -62,7 +62,7 @@ So, Let's Start!.
 | 1.4   | Interface Segregation Principle | ⚠️ 3*     | ✅           | ❌                   |
 | 1.5   | Dependecy Inversion Principle   | ✅     | ✅           | ❌                   |
 | 2.0   | Creational Patterns             | null     | ❌           | ❌                   |
-| 2.1   | Builder                         | ⚠️ 2*   | ⚠️ 2*        | ❌                   |
+| 2.1   | Builder                         | ⚠️ 2*   | ⚠️ 2*       | ❌                   |
 | 2.2   | Abstract Factory                | ❌     | ❌           | ❌                   |
 | 2.3   | Factory Method                  | ❌     | ❌           | ❌                   |
 | 2.3.1 | A.F. - F.M Comp?                | ❌     | ❌           | ❌                   |

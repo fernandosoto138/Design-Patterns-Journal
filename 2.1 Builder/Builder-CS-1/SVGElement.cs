@@ -6,11 +6,17 @@ namespace Builder_CS_1
     {
         public string TagName { get; private set; }
         public string Properties { get; private set; } = "";
-        public List<ISVGElement> Elements { get; private set; } = new List<ISVGElement>();
+        public List<ISVGElement> Elements { get;  set; } = new List<ISVGElement>();
 
+        public string Text { get; set;} = ""; 
         public SVGElement(string TagName)
         {
             this.TagName = TagName;
+        }
+        public SVGElement(string TagName, string Text)
+        {
+            this.TagName = TagName;
+            this.Text = Text;
         }
 
         public SVGElement()
@@ -33,7 +39,10 @@ namespace Builder_CS_1
         {
             string space = new string(' ', indent);
             string val = "";
-            val += $"{space}<{TagName}{Properties}>\n";
+            if(Text == "")
+                val += $"{space}<{TagName}{Properties}>\n";
+            else 
+                val += $"{space}<{TagName}{Properties}>\n{space}{Text}";
             foreach(ISVGElement elem in Elements)
                 val += elem.IndentedToString(indent+1);
             val += $"{space}</{TagName}>\n";

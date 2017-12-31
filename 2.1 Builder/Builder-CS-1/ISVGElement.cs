@@ -9,9 +9,12 @@ namespace Builder_CS_1
     {
         string TagName { get; }   
         string Properties {get;}
-        List<ISVGElement> Elements { get;}
+
+        string Text { get; }
+        List<ISVGElement> Elements { get; set;}
 
         ISVGElement AddProperty(string key, string value);
+        
         ISVGElement AddElement(ISVGElement Element);
 
         string IndentedToString(int indent);

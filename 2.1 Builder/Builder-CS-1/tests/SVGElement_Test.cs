@@ -11,6 +11,13 @@ namespace Builder_CS_1
         {
             Assert.Equal("<svg>\n</svg>\n",svgTag.IndentedToString(0));
         }
+        [Fact]
+        public void SimpleTagWithText()
+        {
+            SVGElement svgTag = new SVGElement("svg");
+            svgTag.Text = "SAMPLETEXT";
+            Assert.Equal("<svg>\nSAMPLETEXT</svg>\n",svgTag.IndentedToString(0));
+        }
 
         [Fact]
         public void TagWithTwoProperties()
