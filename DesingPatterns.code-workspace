@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "1.5 Dependency Inversion Principle/DIP-CS-1"
+		},
+		{
+			"path": "2.1 Builder/Builder-CS-1"
 		}
 	],
 	"settings": {}

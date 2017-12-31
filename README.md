@@ -49,7 +49,7 @@ So, Let's Start!.
 - ❌ : Not done.
 - ⚠️ : Warning :
   1. Needs Real-World Example.
-  1. Incomplete
+  1. In Process
   1. Check if it's necessary
 - ✅ : Done.
 
@@ -60,13 +60,14 @@ So, Let's Start!.
 | 1.2   | Open-Closed Principle           | ✅     | ✅           | ❌                   |
 | 1.3   | Liksov Substitution Principle   | ⚠️ 1*     | ✅          | ❌                   |
 | 1.4   | Interface Segregation Principle | ⚠️ 3*     | ✅           | ❌                   |
-| 1.5   | Dependecy Inversion Principle   | ❌     | ❌           | ❌                   |
+| 1.5   | Dependecy Inversion Principle   | ✅     | ✅           | ❌                   |
 | 2.0   | Creational Patterns             | null     | ❌           | ❌                   |
-| 2.1   | Abstract Factory                | ❌     | ❌           | ❌                   |
-| 2.2   | Factory Method                  | ❌     | ❌           | ❌                   |
-| 2.2.1 | A.F. - F.M Comp?                | ❌     | ❌           | ❌                   |
-| 2.3   | Prototype                       | ❌     | ❌           | ❌                   |
-| 2.4   | Singleton                       | ❌     | ❌           | ❌                   |
+| 2.1   | Builder                         | ⚠️ 2*   | ⚠️ 2*        | ❌                   |
+| 2.2   | Abstract Factory                | ❌     | ❌           | ❌                   |
+| 2.3   | Factory Method                  | ❌     | ❌           | ❌                   |
+| 2.3.1 | A.F. - F.M Comp?                | ❌     | ❌           | ❌                   |
+| 2.4   | Prototype                       | ❌     | ❌           | ❌                   |
+| 2.5   | Singleton                       | ❌     | ❌           | ❌                   |
 | 3.0   | Structural Patterns             | null     | ❌           | ❌                   |
 | 3.1   | Adapter                         | ❌     | ❌           | ❌                   |
 | 3.2   | Bridge                          | ❌     | ❌           | ❌                   |
@@ -87,4 +88,3 @@ So, Let's Start!.
 | 4.9   | Strategy                        | ❌     | ❌           | ❌                   |
 | 4.10  | Template method                 | ❌     | ❌           | ❌                   |
 | 4.11  | Visitor                         | ❌     | ❌           | ❌                   |
-
