@@ -24,7 +24,6 @@ namespace Builder_CS_1
             svgBuilder.AddElement(svgRectangle.AddElement(svgAnimation));
             var fullSvg = svgBuilder.Construct();
             File.WriteAllText(filename,fullSvg.ToString());
-            File.Open(filename,FileMode.Open);
         }
     }
 
