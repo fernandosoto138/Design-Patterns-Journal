@@ -55,20 +55,20 @@ So, Let's Start!.
 
 | Item  | Description                     | Coded | Explanation | Checked Translation |
 | ----- | ------------------------------- | :---: | :---------: | :-----------------: |
-| 1.0   | SOLID Introduction              | null    | ❌           | ❌                   |
+| 1.0   | SOLID Introduction              | null  | ❌           | ❌                   |
 | 1.1   | Single Responsability Principle | ✅     | ✅           | ❌                   |
 | 1.2   | Open-Closed Principle           | ✅     | ✅           | ❌                   |
-| 1.3   | Liksov Substitution Principle   | ⚠️ 1*     | ✅          | ❌                   |
-| 1.4   | Interface Segregation Principle | ⚠️ 3*     | ✅           | ❌                   |
+| 1.3   | Liksov Substitution Principle   | ⚠️ 1* | ✅           | ❌                   |
+| 1.4   | Interface Segregation Principle | ⚠️ 3* | ✅           | ❌                   |
 | 1.5   | Dependecy Inversion Principle   | ✅     | ✅           | ❌                   |
-| 2.0   | Creational Patterns             | null     | ❌           | ❌                   |
-| 2.1   | Builder                         | ⚠️ 2*   | ⚠️ 2*       | ❌                   |
+| 2.0   | Creational Patterns             | null  | ❌           | ❌                   |
+| 2.1   | Builder                         | ✅     | ✅           | ❌                   |
 | 2.2   | Abstract Factory                | ❌     | ❌           | ❌                   |
 | 2.3   | Factory Method                  | ❌     | ❌           | ❌                   |
 | 2.3.1 | A.F. - F.M Comp?                | ❌     | ❌           | ❌                   |
 | 2.4   | Prototype                       | ❌     | ❌           | ❌                   |
 | 2.5   | Singleton                       | ❌     | ❌           | ❌                   |
-| 3.0   | Structural Patterns             | null     | ❌           | ❌                   |
+| 3.0   | Structural Patterns             | null  | ❌           | ❌                   |
 | 3.1   | Adapter                         | ❌     | ❌           | ❌                   |
 | 3.2   | Bridge                          | ❌     | ❌           | ❌                   |
 | 3.3   | Composite                       | ❌     | ❌           | ❌                   |
@@ -76,7 +76,7 @@ So, Let's Start!.
 | 3.5   | Facade                          | ❌     | ❌           | ❌                   |
 | 3.6   | Flyweight                       | ❌     | ❌           | ❌                   |
 | 3.7   | Proxy                           | ❌     | ❌           | ❌                   |
-| 4.0   | Behavioral Patterns             | null   | ❌           | ❌                   |
+| 4.0   | Behavioral Patterns             | null  | ❌           | ❌                   |
 | 4.1   | Chain of responsibility         | ❌     | ❌           | ❌                   |
 | 4.2   | Command                         | ❌     | ❌           | ❌                   |
 | 4.3   | Interpreter                     | ❌     | ❌           | ❌                   |
