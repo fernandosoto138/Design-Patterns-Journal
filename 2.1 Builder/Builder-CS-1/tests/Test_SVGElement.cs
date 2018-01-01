@@ -16,7 +16,7 @@ namespace Builder_CS_1
         {
             SVGElement svgTag = new SVGElement("svg");
             svgTag.Text = "SAMPLETEXT";
-            Assert.Equal("<svg>\nSAMPLETEXT</svg>\n",svgTag.IndentedToString(0));
+            Assert.Equal("<svg>\n SAMPLETEXT</svg>\n",svgTag.IndentedToString(0));
         }
 
         [Fact]
