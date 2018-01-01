@@ -2,7 +2,7 @@ using Xunit;
 
 namespace Builder_CS_1
 {
-    public class SVGElement_Test
+    public class Test_SVGElement
     {
         SVGElement svgTag = new SVGElement("svg");
 

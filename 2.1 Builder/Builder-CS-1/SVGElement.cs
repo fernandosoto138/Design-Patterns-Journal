@@ -38,16 +38,19 @@ namespace Builder_CS_1
         public string IndentedToString(int indent)
         {
             string space = new string(' ', indent);
+            string spaceplus = space + " ";
             string val = "";
             if(Text == "")
                 val += $"{space}<{TagName}{Properties}>\n";
             else 
-                val += $"{space}<{TagName}{Properties}>\n{space}{Text}";
+                val += $"{space}<{TagName}{Properties}>\n{spaceplus}{Text}";
             foreach(ISVGElement elem in Elements)
                 val += elem.IndentedToString(indent+1);
             val += $"{space}</{TagName}>\n";
             return val;
         }
-        
+
+        public override string ToString() => this.IndentedToString(0);
+         
     }
 }
