@@ -16,8 +16,7 @@ The builder pattern propose the following:
   - A Builder object what encapsulates the creation and assembly of the complex parts.
   - A Director object what delegates the Builder object creation.
 
-![alt text](https://raw.githubusercontent.com/fernandosoto138/Design-Patterns-Journal/master/2.1%20Builder/BuilderUML.svg)
-
+<img src="https://raw.githubusercontent.com/fernandosoto138/Design-Patterns-Journal/master/2.1%20Builder/BuilderUML.jpg" style="display:block;margin:auto;" height="200" > <br/>
 Then the real power of this pattern is what you have simplified the creation and assembly of a complex object in a Director class.
 
 ## Example
