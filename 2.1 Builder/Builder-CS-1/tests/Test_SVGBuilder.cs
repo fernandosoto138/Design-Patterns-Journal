@@ -9,7 +9,7 @@ namespace Builder_CS_1
         [Fact]
         public void Construct_Test()
         {
-            var svg = svgBuilder.Construct();
+            var svg = svgBuilder.BuildAll();
             //This allows you to do one Read operation.
             Assert.Equal(baseSVGTag+"</svg>\n",svg.IndentedToString(0));
         }
@@ -24,7 +24,7 @@ namespace Builder_CS_1
             val += " <circle>\n";
             val += " </circle>\n";
             val +="</svg>\n";
-            var svg = svgBuilder.Construct();
+            var svg = svgBuilder.BuildAll();
             Assert.Equal(svg.IndentedToString(0),val);
         }
 
@@ -35,7 +35,7 @@ namespace Builder_CS_1
             string val = baseSVGTag;
             val +="</svg>\n";
             svgBuilder.Clear();
-            var svg = svgBuilder.Construct();
+            var svg = svgBuilder.BuildAll();
             Assert.Equal(svg.IndentedToString(0),val);
         }
 

@@ -20,7 +20,7 @@ namespace Builder_CS_1
             root.AddElement(elem);
             return this;
         }
-        public ISVGElement Construct() => root;
+        public ISVGElement BuildAll() => root;
 
         public void Clear() => root.Elements = new System.Collections.Generic.List<ISVGElement>();
 

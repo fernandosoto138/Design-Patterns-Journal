@@ -5,7 +5,7 @@ namespace Builder_CS_1
         ISVGElement root {get ;}
         
         ISVGBuilder AddElement(ISVGElement elem);
-        ISVGElement Construct();
+        ISVGElement BuildAll();
         
         void Clear();
     }

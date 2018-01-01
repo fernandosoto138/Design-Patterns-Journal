@@ -22,7 +22,7 @@ namespace Builder_CS_1
                         .AddProperty("dur","2s")
                         .AddProperty("repeatCount","indefinite");
             svgBuilder.AddElement(svgRectangle.AddElement(svgAnimation));
-            var fullSvg = svgBuilder.Construct();
+            var fullSvg = svgBuilder.BuildAll();
             File.WriteAllText(filename,fullSvg.ToString());
         }
     }
