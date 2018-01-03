@@ -17,7 +17,7 @@ The adapter pattern proposes the following :
 - An `Adapter` Implements the interface `Target` and uses the `Adaptee`.
 - An `Adaptee` a code what have an incompatible interface for `Target`.
 
-<img src="https://raw.githubusercontent.com/fernandosoto138/Design-Patterns-Journal/master/3.1%20Adapter/AdapterUML.jpg" style="display:block;margin:auto;" height="200" > <br/>
+<img src="https://github.com/fernandosoto138/Design-Patterns-Journal/blob/master/3.1%20Adapter/Adapter-CS-1/AdapterUML.jpg?raw=true" style="display:block;margin:auto;" height="250" > <br/>
 
 ## Example
 
