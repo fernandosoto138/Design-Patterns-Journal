@@ -85,6 +85,6 @@ So, Let's Start!.
 | 4.6   | Memento                         | ❌     | ❌           | ❌                   |
 | 4.7   | Observer                        | ❌     | ❌           | ❌                   |
 | 4.8   | State                           | ❌     | ❌           | ❌                   |
-| 4.9   | Strategy                        | ❌     | ❌           | ❌                   |
+| 4.9   | Strategy                        | ✅     | ✅           | ❌                   |
 | 4.10  | Template method                 | ❌     | ❌           | ❌                   |
 | 4.11  | Visitor                         | ❌     | ❌           | ❌                   |
