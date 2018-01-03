@@ -19,7 +19,7 @@
 
 The Strategy Pattern proposes the following :
 
-- You have `client` what is the place where the strategies are called.
+- You have a `context` what is the place where the strategies are called.
 - Then you need a `Strategy Interface` to implement in the specifict strategies.
 - And in third place you will have `strategy 1`, `strategy2` and more... what implements the strategy interface.
 
