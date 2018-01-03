@@ -69,7 +69,7 @@ So, Let's Start!.
 | 2.4   | Prototype                       | ❌     | ❌           | ❌                   |
 | 2.5   | Singleton                       | ❌     | ❌           | ❌                   |
 | 3.0   | Structural Patterns             | null  | ❌           | ❌                   |
-| 3.1   | Adapter                         | ❌     | ❌           | ❌                   |
+| 3.1   | Adapter                         | ✅     | ✅           | ❌                   |
 | 3.2   | Bridge                          | ❌     | ❌           | ❌                   |
 | 3.3   | Composite                       | ❌     | ❌           | ❌                   |
 | 3.4   | Decorator                       | ❌     | ❌           | ❌                   |
