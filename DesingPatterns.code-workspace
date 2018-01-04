@@ -20,8 +20,10 @@
 		},
 		{
 			"path": "2.1 Builder/Builder-CS-1"
-		}
-		,
+		},
+		{
+			"path": "2.5 Singleton/Singleton-CS-1"
+		},
 		{
 			"path": "3.1 Adapter/Adapter-CS-1"
 		},

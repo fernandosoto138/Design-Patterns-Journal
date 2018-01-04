@@ -4,9 +4,9 @@
 
 ## Problems to Solve
 
-- Avoid Hard-Wired Algorithms by encapsulating them : Instead of code and algorithm directy in a class, create a new class what contains that code. This will help you to switch that algorithms.
-- Avoid conditional parameters : if your method have multiples algorithms inside for one purpose, you need a way to switch them, and instead of put conditional or true/false parameters in that, you can delegate an strategy for apply an specific algorithm.
-- Complicated classes with a lot of algorithms : Instead of have a class with a lot of algorithms for the same or related tasks, consider using one class for each one.
+- How to avoid Hard-Wired Algorithms? Instead of code and algorithm directy in a class, create a new class what contains that code. This will help you to switch that algorithms.
+- How to Avoid conditional parameters? if your method have multiples algorithms inside for one purpose, you need a way to switch them, and instead of put conditional or true/false parameters in that, you can delegate an strategy for apply an specific algorithm.
+- how to reduce complicated classes with a lot of algorithms? Instead of have a class with a lot of algorithms for the same or related tasks, consider using one class for each one.
 
 ## Applications
 

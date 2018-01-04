@@ -22,9 +22,9 @@ So, Let's Start!.
   - 2.3 Factory Method
     - 2.3.1 A.F. - F.M Comparisson ?
   - 2.4 Prototype
-  - 2.5 Singleton
+  - [2.5 Singleton](https://github.com/fernandosoto138/Design-Patterns-Journal/blob/master/2.5%20Singleton/Singleton%20Pattern.md)
 - 3.0 Structural Patterns
-    - 3.1 Adapter
+    - [3.1 Adapter](https://github.com/fernandosoto138/Design-Patterns-Journal/blob/master/3.1%20Adapter/Adapter%20Pattern.md)
     - 3.2 Bridge
     - 3.3 Composite
     - 3.4 Decorator
@@ -40,7 +40,7 @@ So, Let's Start!.
     - 4.6 Memento
     - 4.7 Observer
     - 4.8 State
-    - 4.9 Strategy
+    - [4.9 Strategy](https://github.com/fernandosoto138/Design-Patterns-Journal/blob/master/4.9%20Strategy/Strategy%20Pattern.md)
     - 4.10 Template method
     - 4.11 Visitor
 
