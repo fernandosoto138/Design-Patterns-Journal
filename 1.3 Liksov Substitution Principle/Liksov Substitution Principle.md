@@ -29,3 +29,6 @@ static bool ConnectToDatabase(IDB database, string user, string password)
 ```
 
 So, this is the case *1* what we decribed. 
+
+[Previous Article](https://github.com/fernandosoto138/Design-Patterns-Journal/blob/master/1.2%20SOLID%20OCP/Open%20Closed%20Principle.md)
+[Next Article](https://github.com/fernandosoto138/Design-Patterns-Journal/blob/master/1.4%20Interface%20Segregation%20Principle/Interface%20Segregation%20Principle.md)

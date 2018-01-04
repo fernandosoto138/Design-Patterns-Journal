@@ -60,3 +60,6 @@ class PriceCalculator
 }
 ```
 Now, the list can contain any object what have implemented IProduct interface. 
+
+[Previous Article](https://github.com/fernandosoto138/Design-Patterns-Journal/blob/master/1.2%20SOLID%20OCP/Open%20Closed%20Principle.md)
+[Next Article](https://github.com/fernandosoto138/Design-Patterns-Journal/blob/master/1.3%20Liksov%20Substitution%20Principle/Liksov%20Substitution%20Principle.md)

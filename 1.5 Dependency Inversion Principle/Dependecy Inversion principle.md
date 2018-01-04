@@ -114,3 +114,5 @@ interface INotificationService
 ```
 
 This code achieves DIP because the Weather class are not depending on a class, it's depending on an abstraction called INotificationService. 
+
+[Previous Article](https://github.com/fernandosoto138/Design-Patterns-Journal/blob/master/1.4%20Interface%20Segregation%20Principle/Interface%20Segregation%20Principle.md)

@@ -36,5 +36,5 @@ User, Validations, ModelPersistance.
 
 With that 3 classes we can achieve the SRP, please see the examples. 
 
-
+[Next Article](https://github.com/fernandosoto138/Design-Patterns-Journal/blob/master/1.2%20SOLID%20OCP/Open%20Closed%20Principle.md)
 

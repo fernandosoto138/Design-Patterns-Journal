@@ -8,7 +8,7 @@
 - Avoid conditional parameters : if your method have multiples algorithms inside for one purpose, you need a way to switch them, and instead of put conditional or true/false parameters in that, you can delegate an strategy for apply an specific algorithm.
 - Complicated classes with a lot of algorithms : Instead of have a class with a lot of algorithms for the same or related tasks, consider using one class for each one.
 
-## Aplications:
+## Applications
 
 - Change algorithms in run time : for example you are creating a Login for your application and there's multiple ways for that. Is not the same algorithm if you are taking an user and password instead of a facebook-login.
 - Refactoring tasks :

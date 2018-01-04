@@ -1,7 +1,8 @@
-#Interface Segregation Principle 
+# Interface Segregation Principle 
+
 > A class should not be forced to depend on methods it does not use. 
 
-##Why this is important? 
+## Why this is important?
 This is a quite simple principle to understand, you can think what is like a SRP principle but for interfaces. Because if you creates an interface with a lot of responsabilities, not all objects will require to use all the members in that interface. See the next example :
 
 You are working on game which have some characters, one you control and multiple Non-Player characters. So you create the following interface : 
@@ -56,3 +57,6 @@ class SellerNPC : Character
 }
 ```
 In this case, a seller is a character of our game, but it will not fight nor move, they are very safe in a store of an old village in which there are no monsters. In consequence, the act of inherit Character class in the SellerNPC it's causing an ISP violation due to a fat interface. 
+
+[Previous Article](https://github.com/fernandosoto138/Design-Patterns-Journal/blob/master/1.3%20Liksov%20Substitution%20Principle/Liksov%20Substitution%20Principle.md)
+[Next Article](https://github.com/fernandosoto138/Design-Patterns-Journal/blob/master/1.5%20Dependency%20Inversion%20Principle/Dependecy%20Inversion%20principle.md)

@@ -11,17 +11,18 @@ So, Let's Start!.
 ## Index
 
 - 1.0 SOLID Introduction
-  - 1.1 Single Responsability Principle
-  - 1.2 Open-Closed Principle
-  - 1.3 Liksov Substitution Principle
-  - 1.4 Interface Segregation Principle
-  - 1.5 Dependecy Inversion Principle
+  - [1.1 Single Responsability Principle](https://github.com/fernandosoto138/Design-Patterns-Journal/blob/master/1.1%20SOLID%20SRP/Single%20Responsability%20Principle.md)
+  - [1.2 Open-Closed Principle](https://github.com/fernandosoto138/Design-Patterns-Journal/blob/master/1.2%20SOLID%20OCP/Open%20Closed%20Principle.md)
+  - [1.3 Liksov Substitution Principle](https://github.com/fernandosoto138/Design-Patterns-Journal/blob/master/1.3%20Liksov%20Substitution%20Principle/Liksov%20Substitution%20Principle.md)
+  - [1.4 Interface Segregation Principle](https://github.com/fernandosoto138/Design-Patterns-Journal/blob/master/1.4%20Interface%20Segregation%20Principle/Interface%20Segregation%20Principle.md)
+  - [1.5 Dependecy Inversion Principle](https://github.com/fernandosoto138/Design-Patterns-Journal/blob/master/1.5%20Dependency%20Inversion%20Principle/Dependecy%20Inversion%20principle.md)
 - 2.0 Creational Patterns
-  - 2.1 Abstract Factory
-  - 2.2 Factory Method
-    - 2.2.1 A.F. - F.M Comparisson ?
-  - 2.3 Prototype
-  - 2.4 Singleton
+  - [2.1 Builder Pattern](https://github.com/fernandosoto138/Design-Patterns-Journal/blob/master/2.1%20Builder/Builder%20Pattern.md)
+  - 2.2 Abstract Factory
+  - 2.3 Factory Method
+    - 2.3.1 A.F. - F.M Comparisson ?
+  - 2.4 Prototype
+  - 2.5 Singleton
 - 3.0 Structural Patterns
     - 3.1 Adapter
     - 3.2 Bridge
