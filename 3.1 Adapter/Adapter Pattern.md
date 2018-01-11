@@ -1,4 +1,4 @@
-# Builder
+# Adapter
 
 > Definition : Converts the interface of a class into another interface that clients expect.
 
