@@ -21,7 +21,7 @@ So, Let's Start!.
   - 2.2 Abstract Factory
   - 2.3 Factory Method
     - 2.3.1 A.F. - F.M Comparisson ?
-  - 2.4 Prototype
+  - [2.4 Prototype](https://github.com/fernandosoto138/Design-Patterns-Journal/blob/master/2.4%20Prototype/Prototype%20Pattern.md)
   - [2.5 Singleton](https://github.com/fernandosoto138/Design-Patterns-Journal/blob/master/2.5%20Singleton/Singleton%20Pattern.md)
 - 3.0 Structural Patterns
     - [3.1 Adapter](https://github.com/fernandosoto138/Design-Patterns-Journal/blob/master/3.1%20Adapter/Adapter%20Pattern.md)
@@ -64,11 +64,10 @@ So, Let's Start!.
 | 1.5   | Dependecy Inversion Principle   | ✅     | ✅           | ❌                   |
 | 2.0   | Creational Patterns             | null  | ❌           | ❌                   |
 | 2.1   | Builder                         | ✅     | ✅           | ❌                   |
-| 2.2   | Abstract Factory                | ❌     | ❌           | ❌                   |
-| 2.3   | Factory Method                  | ❌     | ❌           | ❌                   |
-| 2.3.1 | A.F. - F.M Comp?                | ❌     | ❌           | ❌                   |
-| 2.4   | Prototype                       | ❌     | ❌           | ❌                   |
-| 2.5   | Singleton                       | ❌     | ❌           | ❌                   |
+| 2.2   | Factory Method                  | ❌    | ❌            | ❌                   |
+| 2.3   | Abstract Factory                | ❌     |  ❌          | ❌                   |
+| 2.4   | Prototype                       | ✅     | ✅           | ❌                   |
+| 2.5   | Singleton                       | ✅     | ✅           | ❌                   |
 | 3.0   | Structural Patterns             | null  | ❌           | ❌                   |
 | 3.1   | Adapter                         | ✅     | ✅           | ❌                   |
 | 3.2   | Bridge                          | ❌     | ❌           | ❌                   |
