@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Bridge_CS_1
+namespace Strategy_CS_2
 {
     abstract class MessagesService
     {

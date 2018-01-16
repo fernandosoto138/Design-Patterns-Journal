@@ -1,6 +1,6 @@
 using System;
 
-namespace Bridge_CS_1
+namespace Strategy_CS_2
 {
     class MailNotification : INotificationService
     {
