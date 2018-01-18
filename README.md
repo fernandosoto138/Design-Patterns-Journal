@@ -64,7 +64,7 @@ So, Let's Start!.
 | 1.5   | Dependecy Inversion Principle   | ✅     | ✅           | ❌                   |
 | 2.0   | Creational Patterns             | null  | ❌           | ❌                   |
 | 2.1   | Builder                         | ✅     | ✅           | ❌                   |
-| 2.2   | Factory Method                  | ❌    | ❌            | ❌                   |
+| 2.2   | Factory Method                  | ✅    | ✅            | ❌                   |
 | 2.3   | Abstract Factory                | ❌     |  ❌          | ❌                   |
 | 2.4   | Prototype                       | ✅     | ✅           | ❌                   |
 | 2.5   | Singleton                       | ✅     | ✅           | ❌                   |
