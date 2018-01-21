@@ -83,7 +83,7 @@ So, Let's Start!.
 | 4.4   | Iterator                        | ❌     | ❌           | ❌                   |
 | 4.5   | Mediator                        | ❌     | ❌           | ❌                   |
 | 4.6   | Memento                         | ❌     | ❌           | ❌                   |
-| 4.7   | Observer                        | ❌     | ❌           | ❌                   |
+| 4.7   | Observer                        | ✅     | ✅           | ❌                   |
 | 4.8   | State                           | ❌     | ❌           | ❌                   |
 | 4.9   | Strategy                        | ✅     | ✅           | ❌                   |
 | 4.10  | Template method                 | ❌     | ❌           | ❌                   |
