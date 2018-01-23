@@ -16,5 +16,7 @@
 
 - Real-World Applications
 
+## Relations with other patterns
+
 
 ## Example

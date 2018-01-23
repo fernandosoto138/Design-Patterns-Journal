@@ -52,7 +52,8 @@ So, Let's Start!.
   1. Needs Real-World Example.
   1. In Process
   1. Check if it's necessary
-- ✅ : Done.
+- ✅ : Done first part.
+- ⭐️ : Finished.
 
 | Item  | Description                     | Coded | Explanation | Checked Translation |
 | ----- | ------------------------------- | :---: | :---------: | :-----------------: |
@@ -75,7 +76,7 @@ So, Let's Start!.
 | 3.4   | Decorator                       | ❌     | ❌           | ❌                   |
 | 3.5   | Facade                          | ❌     | ❌           | ❌                   |
 | 3.6   | Flyweight                       | ❌     | ❌           | ❌                   |
-| 3.7   | Proxy                           | ❌     | ❌           | ❌                   |
+| 3.7   | Proxy                           | ✅     | ✅           | ❌                   |
 | 4.0   | Behavioral Patterns             | null  | ❌           | ❌                   |
 | 4.1   | Chain of responsibility         | ❌     | ❌           | ❌                   |
 | 4.2   | Command                         | ❌     | ❌           | ❌                   |
