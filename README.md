@@ -78,7 +78,7 @@ So, Let's Start!.
 | 3.6   | Flyweight                       | ❌     | ❌           | ❌                   |
 | 3.7   | Proxy                           | ✅     | ✅           | ❌                   |
 | 4.0   | Behavioral Patterns             | null  | ❌           | ❌                   |
-| 4.1   | Chain of responsibility         | ❌     | ❌           | ❌                   |
+| 4.1   | Chain of responsibility         | ✅     | ❌           | ❌                   |
 | 4.2   | Command                         | ❌     | ❌           | ❌                   |
 | 4.3   | Interpreter                     | ❌     | ❌           | ❌                   |
 | 4.4   | Iterator                        | ❌     | ❌           | ❌                   |
